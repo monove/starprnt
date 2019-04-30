@@ -13,7 +13,7 @@
 	</js-module>
 	<platform name="android">
 		<source-file src="src/android/StarPRNT.java" target-dir="src/starprnt/cordova" />
-		<!-- Using StarPRNT_Android_SDK_V5_5_0  -->
+		<!-- Using StarPRNT_Android_SDK_V5_10_0  -->
 		<source-file src="src/android/lib/StarIOPort3.1.jar" target-dir="libs" />
 		<source-file src="src/android/lib/starioextension.jar" target-dir="libs" />
 		<config-file target="res/xml/config.xml" parent="/*">
